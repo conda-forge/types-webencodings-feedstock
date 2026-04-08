@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0.20251108"
+  version: "0.5.0.20260408"
 
 package:
   name: types-webencodings
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/types-webencodings/types_webencodings-${{ version }}.tar.gz
-  sha256: 2378e2ceccced3d41bb5e21387586e7b5305e11519fc6b0659c629f23b2e5de4
+  sha256: 28c596619f367e43eee393d85f63e8d2fdb6874c654a8d441c37f8afe29c6d0d
 
 build:
   number: 0
